@@ -1,0 +1,90 @@
+ Connected to database!
+
+--- Employee Management ---
+1. Add Employee
+2. View Employees
+3. Update Employee
+4. Delete Employee
+5. Exit
+Enter choice: 2
+
+--- Employee List ---
+6 | John Richard | Development | 60000.00
+
+--- Employee Management ---
+1. Add Employee
+2. View Employees
+3. Update Employee
+4. Delete Employee
+5. Exit
+Enter choice: 3
+Enter employee ID to update: 6
+Enter new name: John
+Enter new department: Testing
+Enter new salary: 80000
+Employee updated!
+
+--- Employee Management ---
+1. Add Employee
+2. View Employees
+3. Update Employee
+4. Delete Employee
+5. Exit
+Enter choice: 2
+
+--- Employee List ---
+6 | John | Testing | 80000.00
+
+--- Employee Management ---
+1. Add Employee
+2. View Employees
+3. Update Employee
+4. Delete Employee
+5. Exit
+Enter choice: 1
+Enter name: Raj
+Enter department: Development
+Enter salary: 90000
+Employee added!
+
+--- Employee Management ---
+1. Add Employee
+2. View Employees
+3. Update Employee
+4. Delete Employee
+5. Exit
+Enter choice: 2
+
+--- Employee List ---
+6 | John | Testing | 80000.00
+7 | Raj | Development | 90000.00
+
+--- Employee Management ---
+1. Add Employee
+2. View Employees
+3. Update Employee
+4. Delete Employee
+5. Exit
+Enter choice: 4
+Enter employee ID to delete: 6
+ Employee deleted!
+
+--- Employee Management ---
+1. Add Employee
+2. View Employees
+3. Update Employee
+4. Delete Employee
+5. Exit
+Enter choice: 2
+
+--- Employee List ---
+7 | Raj | Development | 90000.00
+
+--- Employee Management ---
+1. Add Employee
+2. View Employees
+3. Update Employee
+4. Delete Employee
+5. Exit
+Enter choice: 5
+Exiting...
